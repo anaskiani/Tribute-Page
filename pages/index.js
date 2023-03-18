@@ -5,7 +5,7 @@ export default function Home() {
         Dr. Norman Borlaug
       </h1>
       <p className="flex justify-center">The man who saved a billion lives</p>
-      <div className="grid grid-cols-3 grid-cols-[1fr_15fr_1fr]">
+      <div className="grid  grid-cols-[1fr_15fr_1fr]">
         <div className=""></div>
         <div className="flex flex-col  text-center bg-white">
           <img
@@ -21,7 +21,7 @@ export default function Home() {
           </p>
         </div>
       </div>
-      <div className="grid grid-cols-3 grid-cols-[1fr_2fr_1fr]">
+      <div className="grid  grid-cols-[1fr_2fr_1fr]">
         <div></div>
         <div className="flex flex-col items-center leading-8">
           <ul className=" py-10">
